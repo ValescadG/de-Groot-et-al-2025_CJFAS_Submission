@@ -1,5 +1,3 @@
-setwd("/Users/trueman/Desktop/R scripts/OtoMet/cod met data")
-
 library(ggplot2)
 library(nlme)
 library(AICcmodavg) #for the predictSE.gls function
@@ -545,4 +543,5 @@ for (i in 1:(nrow(confidence_intervals) - 1)) {
 
 #predicted lnFMR for each PPID is: 4.654700 (P1), 4.218790 (P3), 4.223290 (FJ), 4.117086 (NS)
 #se.fit for each PPID is: 0.03455208 (P1), 0.11963300 (P3), 0.09335259 (FJ), 0.12642476 (NS)
+
 
