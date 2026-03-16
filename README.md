@@ -11,35 +11,33 @@ Files and variables:
 
   File: Chung_Cresp_Oikos.csv
   
-  Description: 
-  
   Variables
   
-  HCID: 
+  HCID: Capture ID
   
-  d13C:
+  d13C: Otolith Carbon Stable Isotope Ratio (δ¹³C) — carbon isotope composition of the otolith carbonate relative to the VPDB standard.
   
-  d18O:
+  d18O: Otolith Oxygen Stable Isotope Ratio (δ¹⁸O) — oxygen isotope composition of the otolith carbonate relative to the VPDB standard.
   
-  PP_ID: Population ID
+  PP_ID: Population Identifier — code indicating the population or sampling group to which the individual fish belongs.
   
-  location: 
+  location: Sampling Location — geographic site where the fish was captured.
   
-  year:
+  year: Sampling Year — year in which the fish was collected.
   
-  Catch.Date:
+  Catch.Date: Capture Date — specific date the fish was sampled.
   
-  length:
+  length: Fish Standard Length — standard body length of the fish.
   
-  Weight_g:
+  Weight_g: Fish Wet Weight — whole body mass of the fish in grams.
   
   Diet.mean:
   
   Diet.sd:
   
-  DIC.mean:
+  DIC.mean: Mean Dissolved Inorganic Carbon δ¹³C — average carbon isotope value of dissolved inorganic carbon in the surrounding water.
   
-  DIC.sd:
+  DIC.sd: Standard Deviation of Dissolved Inorganic Carbon δ¹³C.
   
   Salinity.mean:
   
@@ -61,32 +59,30 @@ Files and variables:
   
 
   File: deGroot_Raw_NFD.csv
-  
-  Description: 
-  
+    
   Variables
   
-  HCID:
+  HCID: Capture ID
   
-  d13Coto:
+  d13Coto: Otolith Carbon Stable Isotope Ratio (δ¹³C) — carbon isotope composition of the otolith carbonate relative to the VPDB standard.
   
-  d18Ooto:
+  d18Ooto: Otolith Oxygen Stable Isotope Ratio (δ¹⁸O) — oxygen isotope composition of the otolith carbonate relative to the VPDB standard.
   
-  PP_ID: Population ID
+  PP_ID: Population Identifier — code indicating the population or sampling group to which the individual fish belongs.
   
-  Location:
+  Location: Sampling Location — geographic site where the fish was captured.
   
   Sample date:
   
   Month:
   
-  Year:
+  Year: Sampling Year — year in which the fish was collected.
   
   Julian date:
   
-  SL_mm:
+  SL_mm: Fish Standard Length — standard body length of the fish.
   
-  Weight_g:
+  Weight_g: Fish Wet Weight — whole body mass of the fish in grams.
   
   N%:
   
